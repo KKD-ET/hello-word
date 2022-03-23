@@ -1,11 +1,12 @@
 # hello-word
 first exp with git
 ## Alx Program
+### header 3 it is
 **is this bold text mark down**
 trying to write order list 
 
 2. second item
-3. third item
+
 unordered list
 - first item 
 - second item 
